@@ -27,6 +27,7 @@
   modified 24 Nov 2012
   by Tom Igoe
   modified 19 Feb 2014
+  by Gerald Rich
 */
 
 #include <Esplora.h>
